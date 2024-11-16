@@ -113,6 +113,7 @@ This project relies on the following Python libraries:
 - **Matplotlib** and **Seaborn**: For creating visualizations and plots.
 - **Scikit-Learn**: For implementing machine learning algorithms.
 - **Joblib**: For saving and loading model files.
+- **Pickle**: For saving and loading model files.
 
 ## Contributing
 
